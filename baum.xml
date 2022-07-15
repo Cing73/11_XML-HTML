@@ -1,7 +1,7 @@
 <wurzel>
     <stamm>
         <ast>
-            <zweig></zweig>
+            <zweig color="blue"/>
             <zweig></zweig>            
         </ast>
         <ast>
